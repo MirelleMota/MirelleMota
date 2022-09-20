@@ -1,6 +1,6 @@
-## Olá, eu sou a Mirelle Mota, estudante de programação!
+## Olá, eu sou a Mirelle Mota!
 
-- 👩‍💻 Estudando no Bootcamp da Generation Brasil e Análise e Desenvolvimento de Sistemas na Impacta Tecnologia.
+- 👩‍💻 Estudante de programação na Generation Brasil e Impacta Tecnologia
 
 <div align="center">
   <a href="https://github.com/MirelleMota">
