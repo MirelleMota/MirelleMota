@@ -5,6 +5,7 @@
 <div align="center">
   <a href="https://github.com/MirelleMota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirelleMota&layout=compact&langs_count=7&theme=dracula"/>
+    <br>
 </div>
 
 <div style="center">
