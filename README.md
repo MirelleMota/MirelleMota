@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=30&duration=3000&pause=500&color=FFFCEC&background=F82470E1&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+a+Mirelle+Mota"/></a>
 
-- 👩‍💻 Estudante na Impacta Tecnologia e formada pela Generation Brasil!
+- 👩‍💻 Estudante de programação na Impacta Tecnologia e formada pela Generation Brasil!
 
 <div align="center">
   <a href="https://github.com/MirelleMota">
